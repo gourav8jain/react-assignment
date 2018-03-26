@@ -21,7 +21,8 @@ body {
 .adresstable{
   margin: auto;
   width: 70%;
-  background-color: beige;
+  background-color: maroon;
+  color:white
 }
 
 .stateView{
@@ -409,7 +410,7 @@ code {
 pre {
   text-align: left;
   padding: 0.3em 0.6em;
-  background: #f5f5f5;
+  background: beige;
   border-radius: 0.2em; }
   pre code {
     padding: 0; }

@@ -13,7 +13,7 @@ export default class About extends Component {
 
     render() {
         return (
-            <div style={'margin-top:100px'}>
+            <div style={{marginTop: 100}} >
                 <center>
                     <div>
                         <div>

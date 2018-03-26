@@ -32,7 +32,7 @@ export default class Header extends Component {
                      Contact
                 </NavLink> 
                 <NavLink to="/statelist"  exact className="button" activeClassName="success" >
-                     States
+                     View States
                 </NavLink>
                 <NavLink to="/statelist/create"  exact className="button" activeClassName="success" >
                      Create State
